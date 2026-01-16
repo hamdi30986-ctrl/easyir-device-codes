@@ -1,0 +1,445 @@
+[
+  {
+    "code": "1340",
+    "manufacturer": "Bauhn",
+    "supported_models": [
+      "Aldi"
+    ]
+  },
+  {
+    "code": "8100",
+    "manufacturer": "Cambridge Audio",
+    "supported_models": [
+      "AXR100"
+    ]
+  },
+  {
+    "code": "1580",
+    "manufacturer": "Dialog",
+    "supported_models": [
+      "J-103BF"
+    ]
+  },
+  {
+    "code": "1460",
+    "manufacturer": "Edifier",
+    "supported_models": [
+      "R1280DB"
+    ]
+  },
+  {
+    "code": "1461",
+    "manufacturer": "Edifier",
+    "supported_models": [
+      "R2000DB"
+    ]
+  },
+  {
+    "code": "1540",
+    "manufacturer": "Epson",
+    "supported_models": [
+      "MG-850HD"
+    ]
+  },
+  {
+    "code": "1280",
+    "manufacturer": "Grunding",
+    "supported_models": [
+      "GSB-810"
+    ]
+  },
+  {
+    "code": "1080",
+    "manufacturer": "Insignia",
+    "supported_models": [
+      "NS-42D510NA15"
+    ]
+  },
+  {
+    "code": "1420",
+    "manufacturer": "JBL",
+    "supported_models": [
+      "Cinema SB160"
+    ]
+  },
+  {
+    "code": "1421",
+    "manufacturer": "JBL",
+    "supported_models": [
+      "jblbar20aioblkep"
+    ]
+  },
+  {
+    "code": "1520",
+    "manufacturer": "JVC",
+    "supported_models": [
+      "RX-5022R"
+    ]
+  },
+  {
+    "code": "1480",
+    "manufacturer": "Kanto",
+    "supported_models": [
+      "YU6"
+    ]
+  },
+  {
+    "code": "1600",
+    "manufacturer": "Kivi",
+    "supported_models": [
+      "40F600GU"
+    ]
+  },
+  {
+    "code": "1040",
+    "manufacturer": "LG",
+    "supported_models": [
+      "22MT47DC"
+    ]
+  },
+  {
+    "code": "1041",
+    "manufacturer": "LG",
+    "supported_models": [
+      "LH6235D"
+    ]
+  },
+  {
+    "code": "1042",
+    "manufacturer": "LG",
+    "supported_models": [
+      "43UM7510PSB",
+      "OLED55B8SSC"
+    ]
+  },
+  {
+    "code": "1043",
+    "manufacturer": "LG",
+    "supported_models": [
+      "32LC2R"
+    ]
+  },
+  {
+    "code": "1160",
+    "manufacturer": "Logitech",
+    "supported_models": [
+      "Z906"
+    ]
+  },
+  {
+    "code": "1161",
+    "manufacturer": "Logitech",
+    "supported_models": [
+      "Z-5500"
+    ]
+  },
+  {
+    "code": "1162",
+    "manufacturer": "Logitech",
+    "supported_models": [
+      "Z-5450"
+    ]
+  },
+  {
+    "code": "1640",
+    "manufacturer": "Noblex",
+    "supported_models": [
+      "Noblex 32LC818H",
+      "Sansei TLS1032H",
+      "Admiral TLC3200A",
+      "Fisher FTL320H",
+      "Recco RLCD32H10"
+    ]
+  },
+  {
+    "code": "1300",
+    "manufacturer": "OKI",
+    "supported_models": [
+      "V19B-LED4"
+    ]
+  },
+  {
+    "code": "1360",
+    "manufacturer": "OPTOMA",
+    "supported_models": [
+      "HD27"
+    ]
+  },
+  {
+    "code": "1500",
+    "manufacturer": "Onkyo",
+    "supported_models": [
+      "TX-SR508",
+      "TX-SR700"
+    ]
+  },
+  {
+    "code": "1200",
+    "manufacturer": "Pace",
+    "supported_models": [
+      "TDS850NNZ",
+      "TDC850NF"
+    ]
+  },
+  {
+    "code": "1000",
+    "manufacturer": "Philips",
+    "supported_models": [
+      "26PFL560H"
+    ]
+  },
+  {
+    "code": "1001",
+    "manufacturer": "Philips",
+    "supported_models": [
+      "42PFL3007H/60",
+      "37PF9641D/10"
+    ]
+  },
+  {
+    "code": "1002",
+    "manufacturer": "Philips",
+    "supported_models": [
+      "47PFG4109/77"
+    ]
+  },
+  {
+    "code": "1400",
+    "manufacturer": "Pioneer",
+    "supported_models": [
+      "X-CM56"
+    ]
+  },
+  {
+    "code": "1140",
+    "manufacturer": "RME",
+    "supported_models": [
+      "ADI-2 DAC FS"
+    ]
+  },
+  {
+    "code": "1060",
+    "manufacturer": "Samsung",
+    "supported_models": [
+      "UE40F6500",
+      "UE40H7000SL"
+    ]
+  },
+  {
+    "code": "1061",
+    "manufacturer": "Samsung",
+    "supported_models": [
+      "UE40C6000",
+      "UE40D6500",
+      "UE32H5500",
+      "UE22D5000"
+    ]
+  },
+  {
+    "code": "1062",
+    "manufacturer": "Samsung",
+    "supported_models": [
+      "UE40C6000",
+      "UE40D6500",
+      "UE32H5500",
+      "UE22D5000"
+    ]
+  },
+  {
+    "code": "1063",
+    "manufacturer": "Samsung",
+    "supported_models": [
+      "UN55JU7500"
+    ]
+  },
+  {
+    "code": "1064",
+    "manufacturer": "Samsung",
+    "supported_models": [
+      "QE49Q7FAM"
+    ]
+  },
+  {
+    "code": "1065",
+    "manufacturer": "Samsung",
+    "supported_models": [
+      "QE65Q67RAUXRU"
+    ]
+  },
+  {
+    "code": "7060",
+    "manufacturer": "Samsung",
+    "supported_models": [
+      "UA32EH5000M"
+    ]
+  },
+  {
+    "code": "1620",
+    "manufacturer": "Sharp",
+    "supported_models": [
+      "LC-32LE700E",
+      "LC-32LE700S",
+      "LC-40LE700E",
+      "LC-40LE700S",
+      "LC-46LE700E",
+      "LC-46LE700S",
+      "LC-52LE700E",
+      "LC-52LE700S",
+      "LC-32LX700E",
+      "LC-40LX700E",
+      "LC-46LX700E",
+      "LC-32LU700E",
+      "LC-32LU700S",
+      "LC-40LU700E",
+      "LC-40LU700S",
+      "LC-46LU700E",
+      "LC-46LU700S",
+      "LC-32LE705E",
+      "LC-32LE705S",
+      "LC-40LE705E",
+      "LC-40LE705S",
+      "LC-46LE705E",
+      "LC-46LE705S",
+      "LC-52LE705E",
+      "LC-52LE705S",
+      "LC-32LX705E",
+      "LC-40LX705E",
+      "LC-46LX705E",
+      "LC-32LU705E",
+      "LC-32LU705S",
+      "LC-40LU705E",
+      "LC-40LU705S",
+      "LC-46LU705E",
+      "LC-46LU705S"
+    ]
+  },
+  {
+    "code": "1220",
+    "manufacturer": "Silver",
+    "supported_models": [
+      "MEO"
+    ]
+  },
+  {
+    "code": "1320",
+    "manufacturer": "Sky",
+    "supported_models": [
+      "SkyQ black",
+      "SkyQ mini"
+    ]
+  },
+  {
+    "code": "1020",
+    "manufacturer": "Sony",
+    "supported_models": [
+      "KDL-46HX800"
+    ]
+  },
+  {
+    "code": "7020",
+    "manufacturer": "Sony",
+    "supported_models": [
+      "KDL46EX620",
+      "RM-YD063"
+    ]
+  },
+  {
+    "code": "1180",
+    "manufacturer": "TCL",
+    "supported_models": [
+      "55EP640"
+    ]
+  },
+  {
+    "code": "1181",
+    "manufacturer": "TCL",
+    "supported_models": [
+      "43S6500FS",
+      "32A325"
+    ]
+  },
+  {
+    "code": "1260",
+    "manufacturer": "Thomson",
+    "supported_models": [
+      "40FA3203"
+    ]
+  },
+  {
+    "code": "1100",
+    "manufacturer": "Toshiba",
+    "supported_models": [
+      "42C3530D"
+    ]
+  },
+  {
+    "code": "1240",
+    "manufacturer": "TurboX",
+    "supported_models": [
+      "TXV-2420"
+    ]
+  },
+  {
+    "code": "1380",
+    "manufacturer": "Xiaomi",
+    "supported_models": [
+      "MiBox",
+      "MItv"
+    ]
+  },
+  {
+    "code": "1120",
+    "manufacturer": "Yamaha",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1121",
+    "manufacturer": "Yamaha",
+    "supported_models": [
+      "HTR-3065",
+      "RX-V373",
+      "RX-V373BL",
+      "RX-V375",
+      "RX-V375BL",
+      "YHT-497",
+      "YHT-497BL"
+    ]
+  },
+  {
+    "code": "1122",
+    "manufacturer": "Yamaha",
+    "supported_models": [
+      "VR50590"
+    ]
+  },
+  {
+    "code": "1123",
+    "manufacturer": "Yamaha",
+    "supported_models": [
+      "AS201"
+    ]
+  },
+  {
+    "code": "1124",
+    "manufacturer": "Yamaha",
+    "supported_models": [
+      "YAS-109"
+    ]
+  },
+  {
+    "code": "9999",
+    "manufacturer": "Yamaha",
+    "supported_models": [
+      "AX-380"
+    ]
+  },
+  {
+    "code": "7460",
+    "manufacturer": "ZTE",
+    "supported_models": [
+      "B860H"
+    ]
+  }
+]

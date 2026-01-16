@@ -1,0 +1,122 @@
+[
+  {
+    "code": "1020",
+    "manufacturer": "Acorn",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1180",
+    "manufacturer": "Argo",
+    "supported_models": [
+      "Standy"
+    ]
+  },
+  {
+    "code": "1160",
+    "manufacturer": "Atomberg",
+    "supported_models": [
+      "Efficio"
+    ]
+  },
+  {
+    "code": "1170",
+    "manufacturer": "Atomberg",
+    "supported_models": [
+      "Renesa"
+    ]
+  },
+  {
+    "code": "1200",
+    "manufacturer": "DCG",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1120",
+    "manufacturer": "Europace",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1080",
+    "manufacturer": "Harbor Breeze",
+    "supported_models": [
+      "A25-TX001-R1"
+    ]
+  },
+  {
+    "code": "1081",
+    "manufacturer": "Harbor Breeze",
+    "supported_models": [
+      "A25-TX025"
+    ]
+  },
+  {
+    "code": "1000",
+    "manufacturer": "Kaze",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1040",
+    "manufacturer": "Lucci Air",
+    "supported_models": [
+      "Aria"
+    ]
+  },
+  {
+    "code": "1041",
+    "manufacturer": "Lucci Air",
+    "supported_models": [
+      "Whitehaven DC"
+    ]
+  },
+  {
+    "code": "7040",
+    "manufacturer": "Lucci Air",
+    "supported_models": [
+      "Aria"
+    ]
+  },
+  {
+    "code": "1240",
+    "manufacturer": "Mallory",
+    "supported_models": [
+      "Air Timer TS+"
+    ]
+  },
+  {
+    "code": "1220",
+    "manufacturer": "Mitsubishi",
+    "supported_models": [
+      "C56-RW5"
+    ]
+  },
+  {
+    "code": "1100",
+    "manufacturer": "Pacific",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1140",
+    "manufacturer": "SMC",
+    "supported_models": [
+      "SP486",
+      "SP483"
+    ]
+  },
+  {
+    "code": "1060",
+    "manufacturer": "Super Fan",
+    "supported_models": [
+      "Super Fan A1"
+    ]
+  }
+]

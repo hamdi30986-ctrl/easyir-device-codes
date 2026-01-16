@@ -1,0 +1,2737 @@
+[
+  {
+    "code": "1261",
+    "manufacturer": " Toshiba",
+    "supported_models": [
+      "WH-TA05NE",
+      "WH-TA11EJ"
+    ]
+  },
+  {
+    "code": "2720",
+    "manufacturer": "AEG",
+    "supported_models": [
+      "AXP35U538CW"
+    ]
+  },
+  {
+    "code": "1960",
+    "manufacturer": "AUX",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1961",
+    "manufacturer": "AUX",
+    "supported_models": [
+      "AUX FREEDOM AUX-09FH"
+    ]
+  },
+  {
+    "code": "1962",
+    "manufacturer": "AUX",
+    "supported_models": [
+      "iClima ICI-09A"
+    ]
+  },
+  {
+    "code": "1963",
+    "manufacturer": "AUX",
+    "supported_models": [
+      "Kendal Split Inverter"
+    ]
+  },
+  {
+    "code": "1140",
+    "manufacturer": "Actron",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "2000",
+    "manufacturer": "Aeronik",
+    "supported_models": [
+      "ASO-12IL",
+      "ASI-12IL"
+    ]
+  },
+  {
+    "code": "2980",
+    "manufacturer": "Agratto",
+    "supported_models": [
+      "ECST12FR4-02",
+      "ECST19QFIR4-02"
+    ]
+  },
+  {
+    "code": "1440",
+    "manufacturer": "Akai",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1441",
+    "manufacturer": "Akai",
+    "supported_models": [
+      "TEM-26CHSAAK5",
+      "TEM-70CHSAAK5",
+      "TEM-26CHSAKA5",
+      "TEM-35CHSAKA",
+      "TEM-50CHSAKA",
+      "TEM-35CHSABH",
+      "TEM-35CHSF"
+    ]
+  },
+  {
+    "code": "1460",
+    "manufacturer": "Alliance",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1920",
+    "manufacturer": "Aokesi",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "3160",
+    "manufacturer": "AquaThermal",
+    "supported_models": [
+      "LM AURI-12"
+    ]
+  },
+  {
+    "code": "3140",
+    "manufacturer": "Argo",
+    "supported_models": [
+      "Ulisse13"
+    ]
+  },
+  {
+    "code": "2020",
+    "manufacturer": "Ariston",
+    "supported_models": [
+      "A-IFWHxx-IGX"
+    ]
+  },
+  {
+    "code": "2540",
+    "manufacturer": "Audinac",
+    "supported_models": [
+      "SP3500"
+    ]
+  },
+  {
+    "code": "2380",
+    "manufacturer": "BAXI",
+    "supported_models": [
+      "Unknow"
+    ]
+  },
+  {
+    "code": "1800",
+    "manufacturer": "Ballu",
+    "supported_models": [
+      "YKR-K/002E"
+    ]
+  },
+  {
+    "code": "1801",
+    "manufacturer": "Ballu",
+    "supported_models": [
+      "BSD/in-09HN1_20Y"
+    ]
+  },
+  {
+    "code": "1600",
+    "manufacturer": "Beko",
+    "supported_models": [
+      "BEVCA 120"
+    ]
+  },
+  {
+    "code": "1601",
+    "manufacturer": "Beko",
+    "supported_models": [
+      "BPAK 120"
+    ]
+  },
+  {
+    "code": "1602",
+    "manufacturer": "Beko",
+    "supported_models": [
+      "BXK 120"
+    ]
+  },
+  {
+    "code": "1603",
+    "manufacturer": "Beko",
+    "supported_models": [
+      "BXEU 090"
+    ]
+  },
+  {
+    "code": "1604",
+    "manufacturer": "Beko",
+    "supported_models": [
+      "BPEU 120"
+    ]
+  },
+  {
+    "code": "2920",
+    "manufacturer": "Best",
+    "supported_models": [
+      "BSTS18CNE2"
+    ]
+  },
+  {
+    "code": "2220",
+    "manufacturer": "Blueridge",
+    "supported_models": [
+      "RG57A4",
+      "BGEFU1"
+    ]
+  },
+  {
+    "code": "2880",
+    "manufacturer": "Bora",
+    "supported_models": [
+      "18SRA-HE"
+    ]
+  },
+  {
+    "code": "2740",
+    "manufacturer": "Bosch",
+    "supported_models": [
+      "5000i"
+    ]
+  },
+  {
+    "code": "1160",
+    "manufacturer": "Carrier",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1161",
+    "manufacturer": "Carrier",
+    "supported_models": [
+      "40GKX-024RB"
+    ]
+  },
+  {
+    "code": "1162",
+    "manufacturer": "Carrier",
+    "supported_models": [
+      "42TVGS024-703"
+    ]
+  },
+  {
+    "code": "1163",
+    "manufacturer": "Carrier",
+    "supported_models": [
+      "40MAQB12B--3",
+      "40MAQB18B--3"
+    ]
+  },
+  {
+    "code": "1164",
+    "manufacturer": "Carrier",
+    "supported_models": [
+      "42LUVH025N-1"
+    ]
+  },
+  {
+    "code": "1165",
+    "manufacturer": "Carrier",
+    "supported_models": [
+      "42P250HX",
+      "53P250HX"
+    ]
+  },
+  {
+    "code": "1166",
+    "manufacturer": "Carrier",
+    "supported_models": [
+      "CS-A121N"
+    ]
+  },
+  {
+    "code": "3240",
+    "manufacturer": "Casper",
+    "supported_models": [
+      "SC-09FS32"
+    ]
+  },
+  {
+    "code": "3100",
+    "manufacturer": "Cecotec",
+    "supported_models": [
+      "EnergySilence 12000 AirClima (05290)"
+    ]
+  },
+  {
+    "code": "1580",
+    "manufacturer": "Chigo",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1581",
+    "manufacturer": "Chigo",
+    "supported_models": [
+      "ZH/TY-01"
+    ]
+  },
+  {
+    "code": "1582",
+    "manufacturer": "Chigo",
+    "supported_models": [
+      "ZH/TT-14"
+    ]
+  },
+  {
+    "code": "4580",
+    "manufacturer": "Chigo",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "4581",
+    "manufacturer": "Chigo",
+    "supported_models": [
+      "ZH/LW-03"
+    ]
+  },
+  {
+    "code": "3320",
+    "manufacturer": "Chunlan",
+    "supported_models": [
+      "KFR-25GW/VW (CH-9)"
+    ]
+  },
+  {
+    "code": "1240",
+    "manufacturer": "Consul",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1241",
+    "manufacturer": "Consul",
+    "supported_models": [
+      "CBV12CBBNA",
+      "CBY12DBBNA"
+    ]
+  },
+  {
+    "code": "3120",
+    "manufacturer": "Cooper & Hunter",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1100",
+    "manufacturer": "Daikin",
+    "supported_models": [
+      "FTXS25CVMB",
+      "FTXS35CVMB",
+      "FTXS60BVMB",
+      "FVXS25BVMB"
+    ]
+  },
+  {
+    "code": "1101",
+    "manufacturer": "Daikin",
+    "supported_models": [
+      "FTXS20LVMA",
+      "FTXS25LVMA",
+      "FTXS35LVMA",
+      "FTXS46LVMA",
+      "FTXS50LVMA",
+      "FTXS60LVMA",
+      "FTXS71LVMA",
+      "FTXS85LVMA",
+      "FTXS95LVMA",
+      "FVXS50FV1B",
+      "FTXL35J2V1B",
+      "FTXM25UVMA",
+      "FTXM35UVMA",
+      "FTXD25DVMA",
+      "FTXS35G2V1B",
+      "FTXM71UVMA",
+      "FTM09PV2S"
+    ]
+  },
+  {
+    "code": "1102",
+    "manufacturer": "Daikin",
+    "supported_models": [
+      "FTV20AXV14"
+    ]
+  },
+  {
+    "code": "1103",
+    "manufacturer": "Daikin",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1104",
+    "manufacturer": "Daikin",
+    "supported_models": [
+      "TF25DVM"
+    ]
+  },
+  {
+    "code": "1106",
+    "manufacturer": "Daikin",
+    "supported_models": [
+      "ATX20KV1B",
+      "ATX25KV1B",
+      "ATX35KV1B"
+    ]
+  },
+  {
+    "code": "1107",
+    "manufacturer": "Daikin",
+    "supported_models": [
+      "FTX25JAV1NB"
+    ]
+  },
+  {
+    "code": "1108",
+    "manufacturer": "Daikin",
+    "supported_models": [
+      "FTXG25EV1BS",
+      "FTXG35EV1BS",
+      "FTXG35EV1BW"
+    ]
+  },
+  {
+    "code": "1109",
+    "manufacturer": "Daikin",
+    "supported_models": [
+      "BRC4C158"
+    ]
+  },
+  {
+    "code": "1110",
+    "manufacturer": "Daikin",
+    "supported_models": [
+      "FTC15NV14",
+      "FTC20NV14",
+      "FTC25NV14",
+      "FTC35NV14"
+    ]
+  },
+  {
+    "code": "1111",
+    "manufacturer": "Daikin",
+    "supported_models": [
+      "FTE09NV25"
+    ]
+  },
+  {
+    "code": "1112",
+    "manufacturer": "Daikin",
+    "supported_models": [
+      "ATKC09TV2S",
+      "FTKQ12TV2S"
+    ]
+  },
+  {
+    "code": "1113",
+    "manufacturer": "Daikin",
+    "supported_models": [
+      "FTXV35AV1B"
+    ]
+  },
+  {
+    "code": "1114",
+    "manufacturer": "Daikin",
+    "supported_models": [
+      "FTXM35UVMZ"
+    ]
+  },
+  {
+    "code": "1115",
+    "manufacturer": "Daikin",
+    "supported_models": [
+      "ftxb-c"
+    ]
+  },
+  {
+    "code": "1116",
+    "manufacturer": "Daikin",
+    "supported_models": [
+      "FCQ100KAVEA"
+    ]
+  },
+  {
+    "code": "1117",
+    "manufacturer": "Daikin",
+    "supported_models": [
+      "DTXF35TVMA"
+    ]
+  },
+  {
+    "code": "1118",
+    "manufacturer": "Daikin",
+    "supported_models": [
+      "ARC452A21",
+      "FTXS09LVJU",
+      "FTXS12LVJU",
+      "FTXS15LVJU",
+      "FTXS18LVJU",
+      "FTXS24LVJU"
+    ]
+  },
+  {
+    "code": "1119",
+    "manufacturer": "Daikin",
+    "supported_models": [
+      "FTXS60FVMA"
+    ]
+  },
+  {
+    "code": "4100",
+    "manufacturer": "Daikin",
+    "supported_models": [
+      "FTXS25CVMB",
+      "FTXS35CVMB",
+      "FTXS60BVMB",
+      "FVXS25BVMB"
+    ]
+  },
+  {
+    "code": "5120",
+    "manufacturer": "Daikin",
+    "supported_models": [
+      "ARC433B51"
+    ]
+  },
+  {
+    "code": "1760",
+    "manufacturer": "Daitsu",
+    "supported_models": [
+      "DS12U-RV"
+    ]
+  },
+  {
+    "code": "1761",
+    "manufacturer": "Daitsu",
+    "supported_models": [
+      "DS-9KIDT"
+    ]
+  },
+  {
+    "code": "1762",
+    "manufacturer": "Daitsu",
+    "supported_models": [
+      "ASD9KI-DT"
+    ]
+  },
+  {
+    "code": "1763",
+    "manufacturer": "Daitsu",
+    "supported_models": [
+      "DOS12KIDB"
+    ]
+  },
+  {
+    "code": "1764",
+    "manufacturer": "Daitsu",
+    "supported_models": [
+      "DS-12KIDC(WD)"
+    ]
+  },
+  {
+    "code": "1105",
+    "manufacturer": "Dalkin",
+    "supported_models": [
+      "FTX12NMVJU"
+    ]
+  },
+  {
+    "code": "2240",
+    "manufacturer": "DeLonghi",
+    "supported_models": [
+      "PAC N82ECO",
+      "PAC AN111"
+    ]
+  },
+  {
+    "code": "2241",
+    "manufacturer": "DeLonghi",
+    "supported_models": [
+      "PAC EM77"
+    ]
+  },
+  {
+    "code": "2242",
+    "manufacturer": "DeLonghi",
+    "supported_models": [
+      "PAC AN140HPEW"
+    ]
+  },
+  {
+    "code": "2243",
+    "manufacturer": "DeLonghi",
+    "supported_models": [
+      "DL3000"
+    ]
+  },
+  {
+    "code": "3180",
+    "manufacturer": "Devanti",
+    "supported_models": [
+      "WAC-05C-WH"
+    ]
+  },
+  {
+    "code": "2060",
+    "manufacturer": "Dimplex",
+    "supported_models": [
+      "GDPAC12RC"
+    ]
+  },
+  {
+    "code": "2800",
+    "manufacturer": "ELGIN",
+    "supported_models": [
+      "HVQI18B2IA"
+    ]
+  },
+  {
+    "code": "2801",
+    "manufacturer": "ELGIN",
+    "supported_models": [
+      "HVQI12B2FB"
+    ]
+  },
+  {
+    "code": "2960",
+    "manufacturer": "EcoAir",
+    "supported_models": [
+      "Split Type Wall Air Conditioner"
+    ]
+  },
+  {
+    "code": "1940",
+    "manufacturer": "Electra",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1941",
+    "manufacturer": "Electra",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1942",
+    "manufacturer": "Electra",
+    "supported_models": [
+      "Electra Classic"
+    ]
+  },
+  {
+    "code": "1943",
+    "manufacturer": "Electra",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1944",
+    "manufacturer": "Electra",
+    "supported_models": [
+      "Electra Platinum Plus Inverter"
+    ]
+  },
+  {
+    "code": "1945",
+    "manufacturer": "Electra",
+    "supported_models": [
+      "Electra"
+    ]
+  },
+  {
+    "code": "1946",
+    "manufacturer": "Electra",
+    "supported_models": [
+      "RC-3"
+    ]
+  },
+  {
+    "code": "1947",
+    "manufacturer": "Electra",
+    "supported_models": [
+      "Electra"
+    ]
+  },
+  {
+    "code": "1948",
+    "manufacturer": "Electra",
+    "supported_models": [
+      "Classic 10"
+    ]
+  },
+  {
+    "code": "1700",
+    "manufacturer": "Electrolux",
+    "supported_models": [
+      "EACS/I-HAT/N3"
+    ]
+  },
+  {
+    "code": "1701",
+    "manufacturer": "Electrolux",
+    "supported_models": [
+      "EACS-HA"
+    ]
+  },
+  {
+    "code": "1702",
+    "manufacturer": "Electrolux",
+    "supported_models": [
+      "QI/QE09F",
+      "QI/QE09R",
+      "QI/QE12F",
+      "QI/QE12R",
+      "QI/QE18F",
+      "QI/QE18R",
+      "QI/QE22F",
+      "QI/QE22R",
+      "XI/XE09F",
+      "XI/XE09R",
+      "XI/XE12F",
+      "XI/XE12R",
+      "XI/XE18F",
+      "XI/XE18R",
+      "XI/XE22F",
+      "XI/XE22R"
+    ]
+  },
+  {
+    "code": "1703",
+    "manufacturer": "Electrolux",
+    "supported_models": [
+      "EXP26U758CW"
+    ]
+  },
+  {
+    "code": "1704",
+    "manufacturer": "Electrolux",
+    "supported_models": [
+      "EPI12LEIWI"
+    ]
+  },
+  {
+    "code": "1705",
+    "manufacturer": "Electrolux",
+    "supported_models": [
+      "EACM-10 HR/N3"
+    ]
+  },
+  {
+    "code": "2500",
+    "manufacturer": "Endesa",
+    "supported_models": [
+      "DGR11"
+    ]
+  },
+  {
+    "code": "2600",
+    "manufacturer": "Equation",
+    "supported_models": [
+      "RCH-143"
+    ]
+  },
+  {
+    "code": "1720",
+    "manufacturer": "Erisson",
+    "supported_models": [
+      "EC-S07T2"
+    ]
+  },
+  {
+    "code": "1640",
+    "manufacturer": "FUJIKO",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "7741",
+    "manufacturer": "Family",
+    "supported_models": [
+      "12WIFI"
+    ]
+  },
+  {
+    "code": "2460",
+    "manufacturer": "FanWorld",
+    "supported_models": [
+      "FW6-3000"
+    ]
+  },
+  {
+    "code": "2640",
+    "manufacturer": "Fisher",
+    "supported_models": [
+      "FPR-91DE4-R",
+      "FPR-121DE4-R",
+      "FPR-141DE4-R"
+    ]
+  },
+  {
+    "code": "2641",
+    "manufacturer": "Fisher",
+    "supported_models": [
+      "FSOAI-SU-90AE2"
+    ]
+  },
+  {
+    "code": "2360",
+    "manufacturer": "Flouu",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "3200",
+    "manufacturer": "Friedrich",
+    "supported_models": [
+      "CP12G10B"
+    ]
+  },
+  {
+    "code": "1980",
+    "manufacturer": "Fuji",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1280",
+    "manufacturer": "Fujitsu",
+    "supported_models": [
+      "AR-RBE1E"
+    ]
+  },
+  {
+    "code": "1281",
+    "manufacturer": "Fujitsu",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1282",
+    "manufacturer": "Fujitsu",
+    "supported_models": [
+      "AR-JW11"
+    ]
+  },
+  {
+    "code": "1283",
+    "manufacturer": "Fujitsu",
+    "supported_models": [
+      "AR-AB5"
+    ]
+  },
+  {
+    "code": "1284",
+    "manufacturer": "Fujitsu",
+    "supported_models": [
+      "AR-REG1U"
+    ]
+  },
+  {
+    "code": "1285",
+    "manufacturer": "Fujitsu",
+    "supported_models": [
+      "AR-RCE1E",
+      "AR-PZ2"
+    ]
+  },
+  {
+    "code": "1286",
+    "manufacturer": "Fujitsu",
+    "supported_models": [
+      "AR-JE5"
+    ]
+  },
+  {
+    "code": "1287",
+    "manufacturer": "Fujitsu",
+    "supported_models": [
+      "ASYG-LMCE",
+      "AR-REB1E",
+      "AR-REM7E",
+      "AR-REW2E"
+    ]
+  },
+  {
+    "code": "1288",
+    "manufacturer": "Fujitsu",
+    "supported_models": [
+      "AR-AB8"
+    ]
+  },
+  {
+    "code": "1289",
+    "manufacturer": "Fujitsu",
+    "supported_models": [
+      "AR-REW1E"
+    ]
+  },
+  {
+    "code": "1290",
+    "manufacturer": "Fujitsu",
+    "supported_models": [
+      "AR-RFL7J"
+    ]
+  },
+  {
+    "code": "1291",
+    "manufacturer": "Fujitsu",
+    "supported_models": [
+      "AR-REF1E"
+    ]
+  },
+  {
+    "code": "1292",
+    "manufacturer": "Fujitsu",
+    "supported_models": [
+      "ASYG18LF",
+      "AR-RY12"
+    ]
+  },
+  {
+    "code": "1293",
+    "manufacturer": "Fujitsu",
+    "supported_models": [
+      "ASYG07LM",
+      "ASYG09LM",
+      "AR-REB1E"
+    ]
+  },
+  {
+    "code": "1294",
+    "manufacturer": "Fujitsu",
+    "supported_models": [
+      "AR-RY4"
+    ]
+  },
+  {
+    "code": "4285",
+    "manufacturer": "Fujitsu",
+    "supported_models": [
+      "AR-RCE1E"
+    ]
+  },
+  {
+    "code": "7285",
+    "manufacturer": "Fujitsu",
+    "supported_models": [
+      "AR-RCE1E"
+    ]
+  },
+  {
+    "code": "2520",
+    "manufacturer": "Galanz",
+    "supported_models": [
+      "GZ-1002B-E3"
+    ]
+  },
+  {
+    "code": "1043",
+    "manufacturer": "General Electric",
+    "supported_models": [
+      "ASWX09LECA"
+    ]
+  },
+  {
+    "code": "1044",
+    "manufacturer": "General Electric",
+    "supported_models": [
+      "AHD08LXW1"
+    ]
+  },
+  {
+    "code": "1040",
+    "manufacturer": "Ggeneral Electric",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1041",
+    "manufacturer": "Ggeneral Electric",
+    "supported_models": [
+      "AE1PH09IWF",
+      "AE0PH09IWO",
+      "AE1PH12IWF",
+      "AE0PH12IWO",
+      "AE4PH18IWF",
+      "AE4PH18IWF",
+      "AE5PH18IWO"
+    ]
+  },
+  {
+    "code": "1042",
+    "manufacturer": "Ggeneral Electric",
+    "supported_models": [
+      "ASHA09LCC"
+    ]
+  },
+  {
+    "code": "2900",
+    "manufacturer": "Goodman",
+    "supported_models": [
+      "MSH123E21AXAA",
+      "MST183E20ACAA",
+      "RG57E1/BGEU1 (remote)"
+    ]
+  },
+  {
+    "code": "1180",
+    "manufacturer": "Gree",
+    "supported_models": [
+      "GWH12-KF-K3DNA5G-I"
+    ]
+  },
+  {
+    "code": "1181",
+    "manufacturer": "Gree",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1182",
+    "manufacturer": "Gree",
+    "supported_models": [
+      "GMV-R45G/NaB-K"
+    ]
+  },
+  {
+    "code": "1183",
+    "manufacturer": "Gree",
+    "supported_models": [
+      "Gree Smart inverter models. WiFi off. Health on. Swing modes: [swing]_[led]"
+    ]
+  },
+  {
+    "code": "1184",
+    "manufacturer": "Gree",
+    "supported_models": [
+      "GWH09KF",
+      "GC-EAF09HR"
+    ]
+  },
+  {
+    "code": "1185",
+    "manufacturer": "Gree",
+    "supported_models": [
+      "KFR-50LW",
+      "YAP1F2"
+    ]
+  },
+  {
+    "code": "1186",
+    "manufacturer": "Gree",
+    "supported_models": [
+      "GWH18ACD-D3DNA 1M"
+    ]
+  },
+  {
+    "code": "1187",
+    "manufacturer": "Gree",
+    "supported_models": [
+      "Unknown model"
+    ]
+  },
+  {
+    "code": "1188",
+    "manufacturer": "Gree",
+    "supported_models": [
+      "VIR18HP230V1AH"
+    ]
+  },
+  {
+    "code": "4180",
+    "manufacturer": "Gree",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "4181",
+    "manufacturer": "Gree",
+    "supported_models": [
+      "YB1FA"
+    ]
+  },
+  {
+    "code": "2840",
+    "manufacturer": "HTW",
+    "supported_models": [
+      "HTWS035IX21D2-R32-I"
+    ]
+  },
+  {
+    "code": "1320",
+    "manufacturer": "Haier",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1321",
+    "manufacturer": "Haier",
+    "supported_models": [
+      "Top-Tech 14"
+    ]
+  },
+  {
+    "code": "1322",
+    "manufacturer": "Haier",
+    "supported_models": [
+      "HSU-09HPL03/R03"
+    ]
+  },
+  {
+    "code": "2280",
+    "manufacturer": "Hantech",
+    "supported_models": [
+      "A018-12KR2"
+    ]
+  },
+  {
+    "code": "2281",
+    "manufacturer": "Hantech",
+    "supported_models": [
+      "A016-09KR2/A"
+    ]
+  },
+  {
+    "code": "3060",
+    "manufacturer": "HappyTree",
+    "supported_models": [
+      "TAC-12CHSD/XA81"
+    ]
+  },
+  {
+    "code": "1520",
+    "manufacturer": "Hisense",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1521",
+    "manufacturer": "Hisense",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1522",
+    "manufacturer": "Hisense",
+    "supported_models": [
+      "DGR11R2"
+    ]
+  },
+  {
+    "code": "5520",
+    "manufacturer": "Hisense",
+    "supported_models": [
+      "AS-07UR4SYDD815G"
+    ]
+  },
+  {
+    "code": "1080",
+    "manufacturer": "Hitachi",
+    "supported_models": [
+      "RAC-50HK1"
+    ]
+  },
+  {
+    "code": "1081",
+    "manufacturer": "Hitachi",
+    "supported_models": [
+      "RAC-10EH1",
+      "RAC-18EH1",
+      "RAS-10EH1",
+      "RAS-10EH3",
+      "RAS-18EH1"
+    ]
+  },
+  {
+    "code": "1082",
+    "manufacturer": "Hitachi",
+    "supported_models": [
+      "RAS-25YHA",
+      "RAS-35YHA"
+    ]
+  },
+  {
+    "code": "1084",
+    "manufacturer": "Hitachi",
+    "supported_models": [
+      "RAS-DX18HDK",
+      "RAK-35RPC"
+    ]
+  },
+  {
+    "code": "1085",
+    "manufacturer": "Hitachi",
+    "supported_models": [
+      "RPA24B3BL"
+    ]
+  },
+  {
+    "code": "1086",
+    "manufacturer": "Hitachi",
+    "supported_models": [
+      "RAC-28NK1",
+      "RAC-36NK1"
+    ]
+  },
+  {
+    "code": "1087",
+    "manufacturer": "Hitachi",
+    "supported_models": [
+      "RAS-E25YHAB",
+      "RAS-E35YHAB",
+      "RAS-E50YHAB"
+    ]
+  },
+  {
+    "code": "1088",
+    "manufacturer": "Hitachi",
+    "supported_models": [
+      "RAF-25REX",
+      "RAF-35REX",
+      "RAF-50REX"
+    ]
+  },
+  {
+    "code": "1089",
+    "manufacturer": "Hitachi",
+    "supported_models": [
+      "RAK-35RXE"
+    ]
+  },
+  {
+    "code": "1090",
+    "manufacturer": "Hitachi",
+    "supported_models": [
+      "RAK-50RPE"
+    ]
+  },
+  {
+    "code": "1091",
+    "manufacturer": "Hitachi",
+    "supported_models": [
+      "HSPE2700FCINV",
+      "HSPE3200FCINV",
+      "HSPE5400FCINV",
+      "HSPE6400FCINV"
+    ]
+  },
+  {
+    "code": "1092",
+    "manufacturer": "Hitachi",
+    "supported_models": [
+      "RAS-E14HB"
+    ]
+  },
+  {
+    "code": "2180",
+    "manufacturer": "Hokkaido",
+    "supported_models": [
+      "LA09-DUAL H1"
+    ]
+  },
+  {
+    "code": "1840",
+    "manufacturer": "Hualing",
+    "supported_models": [
+      "KFR-45GW/JNV",
+      "KFR-45G/JNV"
+    ]
+  },
+  {
+    "code": "2662",
+    "manufacturer": "Hyndai",
+    "supported_models": [
+      "H-ARI22-09H"
+    ]
+  },
+  {
+    "code": "2660",
+    "manufacturer": "Hyundai",
+    "supported_models": [
+      "HSE09PH5V"
+    ]
+  },
+  {
+    "code": "2661",
+    "manufacturer": "Hyundai",
+    "supported_models": [
+      "HY6INV"
+    ]
+  },
+  {
+    "code": "2200",
+    "manufacturer": "IGC",
+    "supported_models": [
+      "RAK-12NH",
+      "RAK-18NH"
+    ]
+  },
+  {
+    "code": "1480",
+    "manufacturer": "Junkers",
+    "supported_models": [
+      "Excellence"
+    ]
+  },
+  {
+    "code": "1481",
+    "manufacturer": "Junkers",
+    "supported_models": [
+      "Excellence"
+    ]
+  },
+  {
+    "code": "2580",
+    "manufacturer": "KOREL",
+    "supported_models": [
+      "KSAL2-09DCEH"
+    ]
+  },
+  {
+    "code": "3360",
+    "manufacturer": "Kaden",
+    "supported_models": [
+      "KS09",
+      "KS12",
+      "KS18",
+      "KS24",
+      "KS28"
+    ]
+  },
+  {
+    "code": "1740",
+    "manufacturer": "Kelvinator",
+    "supported_models": [
+      "KSV25HRG"
+    ]
+  },
+  {
+    "code": "1741",
+    "manufacturer": "Kelvinator",
+    "supported_models": [
+      "KSV26CRC",
+      "KSV26HRC",
+      "KSV35CRC",
+      "KSV35HRC",
+      "KSV53HRC",
+      "KSV62HRC",
+      "KSV70CRC",
+      "KCV70HRC",
+      "KSV80HRC"
+    ]
+  },
+  {
+    "code": "7740",
+    "manufacturer": "Kelvinator",
+    "supported_models": [
+      "KSV25HWH"
+    ]
+  },
+  {
+    "code": "3020",
+    "manufacturer": "Klasse",
+    "supported_models": [
+      "DOZ-S06JT"
+    ]
+  },
+  {
+    "code": "2700",
+    "manufacturer": "Kolin",
+    "supported_models": [
+      "RC-M7B1 (remote)",
+      "KSA-D201",
+      "KSA-D252",
+      "KSA-D562",
+      "KSA-D912",
+      "KSA-D202",
+      "KSA-D322",
+      "KSA-D632",
+      "KSA-20D",
+      "KSA-D362",
+      "KSA-D682",
+      "KSA-25D",
+      "KSA-D452",
+      "KSA-D782"
+    ]
+  },
+  {
+    "code": "8700",
+    "manufacturer": "Kolin",
+    "supported_models": [
+      "KAG-145RSINV"
+    ]
+  },
+  {
+    "code": "2620",
+    "manufacturer": "Komeco",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1060",
+    "manufacturer": "LG",
+    "supported_models": [
+      "R09AWN",
+      "R24AWN",
+      "E09EK"
+    ]
+  },
+  {
+    "code": "1061",
+    "manufacturer": "LG",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1062",
+    "manufacturer": "LG",
+    "supported_models": [
+      "P12RK",
+      "A06AWV"
+    ]
+  },
+  {
+    "code": "1063",
+    "manufacturer": "LG",
+    "supported_models": [
+      "P12EP1"
+    ]
+  },
+  {
+    "code": "1064",
+    "manufacturer": "LG",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1065",
+    "manufacturer": "LG",
+    "supported_models": [
+      "LG080EC",
+      "LG100EC",
+      "LG150EC",
+      "LG200EC"
+    ]
+  },
+  {
+    "code": "1066",
+    "manufacturer": "LG",
+    "supported_models": [
+      "LA090HYV",
+      "LA120HYV",
+      "LAN090HYV",
+      "LAN120HYV"
+    ]
+  },
+  {
+    "code": "1067",
+    "manufacturer": "LG",
+    "supported_models": [
+      "W12TCM"
+    ]
+  },
+  {
+    "code": "1068",
+    "manufacturer": "LG",
+    "supported_models": [
+      "AKB74295303"
+    ]
+  },
+  {
+    "code": "1069",
+    "manufacturer": "LG",
+    "supported_models": [
+      "AKB74295304"
+    ]
+  },
+  {
+    "code": "1070",
+    "manufacturer": "LG",
+    "supported_models": [
+      "PC09SQ NSJ"
+    ]
+  },
+  {
+    "code": "1083",
+    "manufacturer": "LG",
+    "supported_models": [
+      "RAS-32CNH2"
+    ]
+  },
+  {
+    "code": "4060",
+    "manufacturer": "LG",
+    "supported_models": [
+      "G09LH"
+    ]
+  },
+  {
+    "code": "7062",
+    "manufacturer": "LG",
+    "supported_models": [
+      "P12RK"
+    ]
+  },
+  {
+    "code": "7065",
+    "manufacturer": "LG",
+    "supported_models": [
+      "LG080EC",
+      "LG100EC",
+      "LG150EC",
+      "LG200EC"
+    ]
+  },
+  {
+    "code": "2160",
+    "manufacturer": "Lennox",
+    "supported_models": [
+      "2018",
+      "2019"
+    ]
+  },
+  {
+    "code": "2161",
+    "manufacturer": "Lennox",
+    "supported_models": [
+      "LNMTE026V2"
+    ]
+  },
+  {
+    "code": "2162",
+    "manufacturer": "Lennox",
+    "supported_models": [
+      "LNINVE052",
+      "LNINVC052"
+    ]
+  },
+  {
+    "code": "1380",
+    "manufacturer": "Midea",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1381",
+    "manufacturer": "Midea",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1382",
+    "manufacturer": "Midea",
+    "supported_models": [
+      "MSY-12HRDN1"
+    ]
+  },
+  {
+    "code": "1383",
+    "manufacturer": "Midea",
+    "supported_models": [
+      "KFR-35G"
+    ]
+  },
+  {
+    "code": "1384",
+    "manufacturer": "Midea",
+    "supported_models": [
+      "MSMACU-18HRFN1-QRD0GW"
+    ]
+  },
+  {
+    "code": "1385",
+    "manufacturer": "Midea",
+    "supported_models": [
+      "R11HG/E"
+    ]
+  },
+  {
+    "code": "1386",
+    "manufacturer": "Midea",
+    "supported_models": [
+      "KFR-32GW"
+    ]
+  },
+  {
+    "code": "1387",
+    "manufacturer": "Midea",
+    "supported_models": [
+      "RG70E/BGEF (Remote)"
+    ]
+  },
+  {
+    "code": "1388",
+    "manufacturer": "Midea",
+    "supported_models": [
+      "42MAQA09S5"
+    ]
+  },
+  {
+    "code": "1389",
+    "manufacturer": "Midea",
+    "supported_models": [
+      "MAP05R1WWT"
+    ]
+  },
+  {
+    "code": "1390",
+    "manufacturer": "Midea",
+    "supported_models": [
+      "RG52C1/BGE (Remote)"
+    ]
+  },
+  {
+    "code": "1391",
+    "manufacturer": "Midea",
+    "supported_models": [
+      "RG58E3/BGEF"
+    ]
+  },
+  {
+    "code": "1392",
+    "manufacturer": "Midea",
+    "supported_models": [
+      "MPD-12CRN7"
+    ]
+  },
+  {
+    "code": "1393",
+    "manufacturer": "Midea",
+    "supported_models": [
+      "MPPHB-09CRN7-QB6-N"
+    ]
+  },
+  {
+    "code": "1394",
+    "manufacturer": "Midea",
+    "supported_models": [
+      "RG70C/BGEF (Remote)"
+    ]
+  },
+  {
+    "code": "1395",
+    "manufacturer": "Midea",
+    "supported_models": [
+      "RG10B(D1)/BGEFU1 (Remote)"
+    ]
+  },
+  {
+    "code": "4380",
+    "manufacturer": "Midea",
+    "supported_models": [
+      "MCD-24HRN1-Q1"
+    ]
+  },
+  {
+    "code": "4381",
+    "manufacturer": "Midea",
+    "supported_models": [
+      "RG70C1/BGEF"
+    ]
+  },
+  {
+    "code": "7386",
+    "manufacturer": "Midea",
+    "supported_models": [
+      "KFR-32GW"
+    ]
+  },
+  {
+    "code": "2100",
+    "manufacturer": "Mirage",
+    "supported_models": [
+      "Magnum Inverter 19"
+    ]
+  },
+  {
+    "code": "2560",
+    "manufacturer": "Mistral",
+    "supported_models": [
+      "MPAC15CY28"
+    ]
+  },
+  {
+    "code": "1122",
+    "manufacturer": "Mitsubishi",
+    "supported_models": [
+      "MSZ-AP50VGKD"
+    ]
+  },
+  {
+    "code": "1124",
+    "manufacturer": "Mitsubishi",
+    "supported_models": [
+      "MSZ-SF25VE3",
+      "MSZ-SF35VE3",
+      "MSZ-SF42VE3",
+      "MSZ-SF50VE3",
+      "MSZ-AP20VG",
+      "MSZ-AP25VGD"
+    ]
+  },
+  {
+    "code": "1135",
+    "manufacturer": "Mitsubishi",
+    "supported_models": [
+      "MSZ-GE60VAD",
+      "MSZ-GE71VAD",
+      "MSZ-GE80VAD"
+    ]
+  },
+  {
+    "code": "1139",
+    "manufacturer": "Mitsubishi",
+    "supported_models": [
+      "MLZ-KP09NA2",
+      "MLZ-KP18NA2"
+    ]
+  },
+  {
+    "code": "7124",
+    "manufacturer": "Mitsubishi",
+    "supported_models": [
+      "MSZ-SF25VE3",
+      "MSZ-SF35VE3",
+      "MSZ-SF42VE3",
+      "MSZ-SF50VE3",
+      "MSZ-AP20VG",
+      "MSZ-AP25VGD"
+    ]
+  },
+  {
+    "code": "1120",
+    "manufacturer": "Mitsubishi Electric",
+    "supported_models": [
+      "MSZ-GL25VGD",
+      "MSZ-GL35VGD",
+      "MSZ-GL42VGD",
+      "MSZ-GL50VGD",
+      "MSZ-GL60VGD",
+      "MSZ-GL71VGD",
+      "MSZ-GL80VGD"
+    ]
+  },
+  {
+    "code": "1121",
+    "manufacturer": "Mitsubishi Electric",
+    "supported_models": [
+      "MSZ-GA35VA"
+    ]
+  },
+  {
+    "code": "1123",
+    "manufacturer": "Mitsubishi Electric",
+    "supported_models": [
+      "SRK25ZSX-SRC25ZSX"
+    ]
+  },
+  {
+    "code": "1125",
+    "manufacturer": "Mitsubishi Electric",
+    "supported_models": [
+      "MLZ-KP25VF",
+      "MLZ-KP35VF",
+      "MLZ-KP50VF"
+    ]
+  },
+  {
+    "code": "1126",
+    "manufacturer": "Mitsubishi Electric",
+    "supported_models": [
+      "MSX09-NV II",
+      "MSH-07RV",
+      "MSH-12RV",
+      "MS-24RV"
+    ]
+  },
+  {
+    "code": "1127",
+    "manufacturer": "Mitsubishi Electric",
+    "supported_models": [
+      "MSZ-HJ25VA"
+    ]
+  },
+  {
+    "code": "1128",
+    "manufacturer": "Mitsubishi Electric",
+    "supported_models": [
+      "MSZ-HJ25VA",
+      "MSZ-HJ35VA"
+    ]
+  },
+  {
+    "code": "1130",
+    "manufacturer": "Mitsubishi Electric",
+    "supported_models": [
+      "MS-SGD18VC"
+    ]
+  },
+  {
+    "code": "1131",
+    "manufacturer": "Mitsubishi Electric",
+    "supported_models": [
+      "PAR-FL32MA"
+    ]
+  },
+  {
+    "code": "1132",
+    "manufacturer": "Mitsubishi Electric",
+    "supported_models": [
+      "MSC-A12YV"
+    ]
+  },
+  {
+    "code": "1134",
+    "manufacturer": "Mitsubishi Electric",
+    "supported_models": [
+      "MG-GN18VF",
+      "MS-GN18VF",
+      "MS-GN13VF"
+    ]
+  },
+  {
+    "code": "1136",
+    "manufacturer": "Mitsubishi Electric",
+    "supported_models": [
+      "MSXY-FP10VG",
+      "MSXY-FP13VG",
+      "MSXY-FP18VG"
+    ]
+  },
+  {
+    "code": "1137",
+    "manufacturer": "Mitsubishi Electric",
+    "supported_models": [
+      "MSZ-HR35VF"
+    ]
+  },
+  {
+    "code": "1138",
+    "manufacturer": "Mitsubishi Electric",
+    "supported_models": [
+      "Remote KM09D/166901"
+    ]
+  },
+  {
+    "code": "4124",
+    "manufacturer": "Mitsubishi Electric",
+    "supported_models": [
+      "MSZ-SF25VE3",
+      "MSZ-SF35VE3",
+      "MSZ-SF42VE3",
+      "MSZ-SF50VE3",
+      "MSZ-AP20VG",
+      "MSZ-AP25VGD"
+    ]
+  },
+  {
+    "code": "4129",
+    "manufacturer": "Mitsubishi Electric",
+    "supported_models": [
+      "DXK18Z1-S"
+    ]
+  },
+  {
+    "code": "5140",
+    "manufacturer": "Mitsubishi Electric",
+    "supported_models": [
+      "MSC-A12WV"
+    ]
+  },
+  {
+    "code": "1129",
+    "manufacturer": "Mitsubishi Electric ",
+    "supported_models": [
+      "MSZ-GE22VA"
+    ]
+  },
+  {
+    "code": "1133",
+    "manufacturer": "Mitsubishi Electric Starmex",
+    "supported_models": [
+      "MSXY-FN10VE",
+      "MSXY-FN07VE",
+      "MSXY-FN13VE",
+      "MSXY-FN18VE"
+    ]
+  },
+  {
+    "code": "1680",
+    "manufacturer": "Mitsubishi Heavy",
+    "supported_models": [
+      "SRK25ZJ-S1",
+      "SRK13CRV-S1"
+    ]
+  },
+  {
+    "code": "1681",
+    "manufacturer": "Mitsubishi Heavy",
+    "supported_models": [
+      "SRK71ZK-S"
+    ]
+  },
+  {
+    "code": "1682",
+    "manufacturer": "Mitsubishi Heavy",
+    "supported_models": [
+      "SRKM25H",
+      "SRK40HBE",
+      "RKS502A502",
+      "RKS502A503"
+    ]
+  },
+  {
+    "code": "1683",
+    "manufacturer": "Mitsubishi Heavy",
+    "supported_models": [
+      "DXK12ZMA-S"
+    ]
+  },
+  {
+    "code": "1685",
+    "manufacturer": "Mitsubishi Heavy",
+    "supported_models": [
+      "SRK50ZS-S"
+    ]
+  },
+  {
+    "code": "1686",
+    "manufacturer": "Mitsubishi Heavy",
+    "supported_models": [
+      "SRK20ZSA-W",
+      "SRK25ZSA-W",
+      "SRK35ZSA-W",
+      "SRK50ZSA-W"
+    ]
+  },
+  {
+    "code": "1687",
+    "manufacturer": "Mitsubishi Heavy",
+    "supported_models": [
+      "SRK35ZJX-S",
+      "SRK20ZJX-S"
+    ]
+  },
+  {
+    "code": "1688",
+    "manufacturer": "Mitsubishi Heavy",
+    "supported_models": [
+      "SRK25ZSP-W",
+      "SRK35ZSP-W",
+      "SRK45ZSP-W"
+    ]
+  },
+  {
+    "code": "1689",
+    "manufacturer": "Mitsubishi Heavy",
+    "supported_models": [
+      "DXK12ZSA-W"
+    ]
+  },
+  {
+    "code": "1690",
+    "manufacturer": "Mitsubishi Heavy",
+    "supported_models": [
+      "FDUM VF2"
+    ]
+  },
+  {
+    "code": "1691",
+    "manufacturer": "Mitsubishi Heavy",
+    "supported_models": [
+      "SRK71ZRA-W"
+    ]
+  },
+  {
+    "code": "1692",
+    "manufacturer": "Mitsubishi Heavy",
+    "supported_models": [
+      "DXK12Z3-S",
+      "DXK09Z5-S",
+      "DXK15Z5-S"
+    ]
+  },
+  {
+    "code": "1684",
+    "manufacturer": "Mitsubishi Heavy Industries",
+    "supported_models": [
+      "DXK24ZRA"
+    ]
+  },
+  {
+    "code": "3220",
+    "manufacturer": "Mundoclima",
+    "supported_models": [
+      "MUPR-09-H9A",
+      "MUPR-12-H9A",
+      "MUPR-18-H9A",
+      "MUPR-24-H9A",
+      "MUPR-09-H5A",
+      "MUPR-12-H5A",
+      "MUPR-18-H5A",
+      "MUPR-24-H5A"
+    ]
+  },
+  {
+    "code": "3300",
+    "manufacturer": "PARKAIR",
+    "supported_models": [
+      "DI-A"
+    ]
+  },
+  {
+    "code": "1020",
+    "manufacturer": "Panasonic",
+    "supported_models": [
+      "CS-CE7HKEW",
+      "CS-CE9HKEW",
+      "CS-CE12HKEW",
+      "CS-PC24MKF",
+      "CS-C24PKF"
+    ]
+  },
+  {
+    "code": "1021",
+    "manufacturer": "Panasonic",
+    "supported_models": [
+      "CS-RE9GKE",
+      "CS-RE12GKE",
+      "CS-RE9PKR",
+      "CSCU-Z25TKR"
+    ]
+  },
+  {
+    "code": "1022",
+    "manufacturer": "Panasonic",
+    "supported_models": [
+      "CS-Z25TK"
+    ]
+  },
+  {
+    "code": "1023",
+    "manufacturer": "Panasonic",
+    "supported_models": [
+      "CS-HE9JKE",
+      "CS-HE12JKE",
+      "CS-HE9LKE"
+    ]
+  },
+  {
+    "code": "1024",
+    "manufacturer": "Panasonic",
+    "supported_models": [
+      "CS-MRE7MKE"
+    ]
+  },
+  {
+    "code": "1025",
+    "manufacturer": "Panasonic",
+    "supported_models": [
+      "CS-E18FKR"
+    ]
+  },
+  {
+    "code": "1026",
+    "manufacturer": "Panasonic",
+    "supported_models": [
+      "CS-PC12QKT"
+    ]
+  },
+  {
+    "code": "1027",
+    "manufacturer": "Panasonic",
+    "supported_models": [
+      "CS-SA9CKP"
+    ]
+  },
+  {
+    "code": "1028",
+    "manufacturer": "Panasonic",
+    "supported_models": [
+      "CS-U9RKR",
+      "CS-U12RKR"
+    ]
+  },
+  {
+    "code": "1029",
+    "manufacturer": "Panasonic",
+    "supported_models": [
+      "CS-LJ22~LJ90BA2(YA2)"
+    ]
+  },
+  {
+    "code": "1030",
+    "manufacturer": "Panasonic",
+    "supported_models": [
+      "CS-E12JKDW"
+    ]
+  },
+  {
+    "code": "1031",
+    "manufacturer": "Panasonic",
+    "supported_models": [
+      "SRK25ZMP-S, SRK35ZMP-S, SRK45ZMP-S"
+    ]
+  },
+  {
+    "code": "1032",
+    "manufacturer": "Panasonic",
+    "supported_models": [
+      "CS-CU-HU18YKYF"
+    ]
+  },
+  {
+    "code": "2820",
+    "manufacturer": "Pearl",
+    "supported_models": [
+      "EXGC24FCBC1"
+    ]
+  },
+  {
+    "code": "3000",
+    "manufacturer": "Philco",
+    "supported_models": [
+      "Philco AC"
+    ]
+  },
+  {
+    "code": "2040",
+    "manufacturer": "Pioneer",
+    "supported_models": [
+      "WYS018GMFI17RL",
+      "WYS009GMFI17RL",
+      "CB018GMFILCFHD",
+      "CB012GMFILCFHD"
+    ]
+  },
+  {
+    "code": "2041",
+    "manufacturer": "Pioneer",
+    "supported_models": [
+      "WT018GLFI19HLD"
+    ]
+  },
+  {
+    "code": "2260",
+    "manufacturer": "Profio",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1660",
+    "manufacturer": "ROYAL",
+    "supported_models": [
+      "08HPN1T1"
+    ]
+  },
+  {
+    "code": "1661",
+    "manufacturer": "ROYAL",
+    "supported_models": [
+      "RC-G25HN"
+    ]
+  },
+  {
+    "code": "1820",
+    "manufacturer": "Riello",
+    "supported_models": [
+      "WSI XN",
+      "RAR-3U4"
+    ]
+  },
+  {
+    "code": "2480",
+    "manufacturer": "Rotenso",
+    "supported_models": [
+      "Ukura",
+      "Maze (remote)"
+    ]
+  },
+  {
+    "code": "2940",
+    "manufacturer": "SAGA",
+    "supported_models": [
+      "SAGA-A-22(CH)"
+    ]
+  },
+  {
+    "code": "7300",
+    "manufacturer": "SHARP",
+    "supported_models": [
+      "AH-AP9GMY"
+    ]
+  },
+  {
+    "code": "1400",
+    "manufacturer": "Samsung",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1401",
+    "manufacturer": "Samsung",
+    "supported_models": [
+      "AR**HSF/JFS**"
+    ]
+  },
+  {
+    "code": "1402",
+    "manufacturer": "Samsung",
+    "supported_models": [
+      "AR**TSHGAWK"
+    ]
+  },
+  {
+    "code": "1403",
+    "manufacturer": "Samsung",
+    "supported_models": [
+      "AR**TXHZ***"
+    ]
+  },
+  {
+    "code": "1404",
+    "manufacturer": "Samsung",
+    "supported_models": [
+      "AR**TSHZ****"
+    ]
+  },
+  {
+    "code": "1405",
+    "manufacturer": "Samsung",
+    "supported_models": [
+      "AR**TSHQBURN"
+    ]
+  },
+  {
+    "code": "1406",
+    "manufacturer": "Samsung",
+    "supported_models": [
+      "AQV12PWD"
+    ]
+  },
+  {
+    "code": "1407",
+    "manufacturer": "Samsung",
+    "supported_models": [
+      "AR**NXWS***"
+    ]
+  },
+  {
+    "code": "1408",
+    "manufacturer": "Samsung",
+    "supported_models": [
+      "AR18HSFSAWKNEU Ver.01"
+    ]
+  },
+  {
+    "code": "1500",
+    "manufacturer": "Sanyo",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1501",
+    "manufacturer": "Sanyo",
+    "supported_models": [
+      "SAP-KR124EHEA"
+    ]
+  },
+  {
+    "code": "1880",
+    "manufacturer": "Saunier Duval",
+    "supported_models": [
+      "1"
+    ]
+  },
+  {
+    "code": "2080",
+    "manufacturer": "Sendo",
+    "supported_models": [
+      "SND-18/IK"
+    ]
+  },
+  {
+    "code": "2860",
+    "manufacturer": "Senville",
+    "supported_models": [
+      "SENA/12HF/IZ"
+    ]
+  },
+  {
+    "code": "1300",
+    "manufacturer": "Sharp",
+    "supported_models": [
+      "AY-B22DM"
+    ]
+  },
+  {
+    "code": "1301",
+    "manufacturer": "Sharp",
+    "supported_models": [
+      "AY-X13BE"
+    ]
+  },
+  {
+    "code": "8800",
+    "manufacturer": "Sigma",
+    "supported_models": [
+      "SGS32H13NE"
+    ]
+  },
+  {
+    "code": "1860",
+    "manufacturer": "Simbio",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1420",
+    "manufacturer": "Sintech",
+    "supported_models": [
+      "KFR-34GW"
+    ]
+  },
+  {
+    "code": "1360",
+    "manufacturer": "Springer",
+    "supported_models": [
+      "Split Hi Wall Maxiflex"
+    ]
+  },
+  {
+    "code": "1220",
+    "manufacturer": "Sungold",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1900",
+    "manufacturer": "TCL",
+    "supported_models": [
+      "TAC-12CHSD/XA21I"
+    ]
+  },
+  {
+    "code": "1901",
+    "manufacturer": "TCL",
+    "supported_models": [
+      "TAC-12CHSD/XA71IN"
+    ]
+  },
+  {
+    "code": "1340",
+    "manufacturer": "Tadiran",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "1341",
+    "manufacturer": "Tadiran",
+    "supported_models": [
+      "TAC490"
+    ]
+  },
+  {
+    "code": "1342",
+    "manufacturer": "Tadiran",
+    "supported_models": [
+      "Tadiran-10i/15i/inv220a"
+    ]
+  },
+  {
+    "code": "1343",
+    "manufacturer": "Tadiran",
+    "supported_models": [
+      "Alpha Series"
+    ]
+  },
+  {
+    "code": "1344",
+    "manufacturer": "Tadiran",
+    "supported_models": [
+      "Remote Control YB1FA",
+      "Tadiran Inverter"
+    ]
+  },
+  {
+    "code": "1345",
+    "manufacturer": "Tadiran",
+    "supported_models": [
+      "TAC 297"
+    ]
+  },
+  {
+    "code": "1346",
+    "manufacturer": "Tadiran",
+    "supported_models": [
+      "TAC 297H V3.2"
+    ]
+  },
+  {
+    "code": "1560",
+    "manufacturer": "Tadiran",
+    "supported_models": [
+      "WIND 3P"
+    ]
+  },
+  {
+    "code": "2120",
+    "manufacturer": "Technibel",
+    "supported_models": [
+      "MPAF13A0R5IAA"
+    ]
+  },
+  {
+    "code": "4800",
+    "manufacturer": "TechnoLux",
+    "supported_models": [
+      "KFR-25GW/F"
+    ]
+  },
+  {
+    "code": "1620",
+    "manufacturer": "Tornado",
+    "supported_models": [
+      "Super - Inverter A, i",
+      "Inverter",
+      "Inverter A",
+      "Super Design",
+      "Super Plasma",
+      "Gold i",
+      "Multi ON-OFF",
+      "Multi Inverter",
+      "Super Gold i",
+      "Plasma Gold"
+    ]
+  },
+  {
+    "code": "1621",
+    "manufacturer": "Tornado",
+    "supported_models": [
+      "Super Legend 40"
+    ]
+  },
+  {
+    "code": "1622",
+    "manufacturer": "Tornado",
+    "supported_models": [
+      "Master-22 X"
+    ]
+  },
+  {
+    "code": "1623",
+    "manufacturer": "Tornado",
+    "supported_models": [
+      "Inverter VRF"
+    ]
+  },
+  {
+    "code": "1624",
+    "manufacturer": "Tornado",
+    "supported_models": [
+      "Super Legend 40"
+    ]
+  },
+  {
+    "code": "1625",
+    "manufacturer": "Tornado",
+    "supported_models": [
+      "Inverter VRF BOX"
+    ]
+  },
+  {
+    "code": "1626",
+    "manufacturer": "Tornado",
+    "supported_models": [
+      "MASTER-35 X 1PH"
+    ]
+  },
+  {
+    "code": "1627",
+    "manufacturer": "Tornado",
+    "supported_models": [
+      "MASTER-12A PLUS"
+    ]
+  },
+  {
+    "code": "1260",
+    "manufacturer": "Toshiba",
+    "supported_models": [
+      "RAS-13NKV-E / RAS-13NAV-E",
+      "RAS-13NKV-A / RAS-13NAV-A",
+      "RAS-16NKV-E / RAS-16NAV-E",
+      "RAS-16NKV-A / RAS-16NAV-A",
+      "RAS-M10SKV-E"
+    ]
+  },
+  {
+    "code": "1262",
+    "manufacturer": "Toshiba",
+    "supported_models": [
+      "RAC-PD0812CRRU",
+      "RAC-PD1013CWRU",
+      "RAC-PD1213CWRU",
+      "RAC-PD1414CWRU"
+    ]
+  },
+  {
+    "code": "1263",
+    "manufacturer": "Toshiba",
+    "supported_models": [
+      "RAS-B07J2KVSG-E",
+      "RAS-B10J2KVSG-E",
+      "RAS-B13J2KVSG-E",
+      "RAS-B10SKVP-E"
+    ]
+  },
+  {
+    "code": "1264",
+    "manufacturer": "Toshiba",
+    "supported_models": [
+      "RAS-13SKVR-A"
+    ]
+  },
+  {
+    "code": "1265",
+    "manufacturer": "Toshiba",
+    "supported_models": [
+      "RAS-25SKVP2-ND",
+      "RAS-35SKVP2-ND"
+    ]
+  },
+  {
+    "code": "7260",
+    "manufacturer": "Toshiba",
+    "supported_models": [
+      "RAS-18NKV-E / RAS-18NAV-E"
+    ]
+  },
+  {
+    "code": "1200",
+    "manufacturer": "Tosot",
+    "supported_models": [
+      "T09H-SJ"
+    ]
+  },
+  {
+    "code": "1000",
+    "manufacturer": "Toyotomi",
+    "supported_models": [
+      "AKIRA GAN/GAG-A128 VL"
+    ]
+  },
+  {
+    "code": "1001",
+    "manufacturer": "Toyotomi",
+    "supported_models": [
+      "AKIRA GAN/GAG-A135FW-M"
+    ]
+  },
+  {
+    "code": "2760",
+    "manufacturer": "Tristar",
+    "supported_models": [
+      "AC-5400"
+    ]
+  },
+  {
+    "code": "1780",
+    "manufacturer": "Trotec",
+    "supported_models": [
+      "YX1F6"
+    ]
+  },
+  {
+    "code": "1781",
+    "manufacturer": "Trotec",
+    "supported_models": [
+      "YX1F"
+    ]
+  },
+  {
+    "code": "1782",
+    "manufacturer": "Trotec",
+    "supported_models": [
+      "RG57H3(B)/BGCEF-M",
+      "PAC 2100 X",
+      "PAC 2600 X"
+    ]
+  },
+  {
+    "code": "2140",
+    "manufacturer": "Unionaire",
+    "supported_models": [
+      "Artify"
+    ]
+  },
+  {
+    "code": "2420",
+    "manufacturer": "VS",
+    "supported_models": [
+      "Unknown"
+    ]
+  },
+  {
+    "code": "2440",
+    "manufacturer": "Vaillant",
+    "supported_models": [
+      "ClimaVair VAI 8-025"
+    ]
+  },
+  {
+    "code": "3040",
+    "manufacturer": "Viessmann",
+    "supported_models": [
+      "Vitoclima 300-S"
+    ]
+  },
+  {
+    "code": "8720",
+    "manufacturer": "Viomi",
+    "supported_models": [
+      "KF-26GW/Y4PF5-A5"
+    ]
+  },
+  {
+    "code": "3080",
+    "manufacturer": "Voltas",
+    "supported_models": [
+      "VOLTAS INV/AC 1.5T 183V MZJ3 3S"
+    ]
+  },
+  {
+    "code": "2340",
+    "manufacturer": "Vortex",
+    "supported_models": [
+      "VOR-12C3/407"
+    ]
+  },
+  {
+    "code": "1540",
+    "manufacturer": "Whirlpool",
+    "supported_models": [
+      "SPIS412L"
+    ]
+  },
+  {
+    "code": "2320",
+    "manufacturer": "Whynter",
+    "supported_models": [
+      "ARC-08WB",
+      "ARC-10WB",
+      "ARC-126MD",
+      "ARC-126MDB",
+      "ARC-148MS"
+    ]
+  },
+  {
+    "code": "2321",
+    "manufacturer": "Whynter",
+    "supported_models": [
+      "ARC-12S",
+      "ARC-12SD",
+      "ARC-122DS",
+      "ARC-14S",
+      "ARC-141BG",
+      "ARC-143MX",
+      "ARC-101CW"
+    ]
+  },
+  {
+    "code": "3340",
+    "manufacturer": "Wide",
+    "supported_models": [
+      "WDS12ECO"
+    ]
+  },
+  {
+    "code": "2780",
+    "manufacturer": "Xiaomi",
+    "supported_models": [
+      "KFR-35G/F3C1"
+    ]
+  },
+  {
+    "code": "2400",
+    "manufacturer": "Yamatsu",
+    "supported_models": [
+      "YAM-12KDA",
+      "AUS-07C53R013L24"
+    ]
+  },
+  {
+    "code": "2300",
+    "manufacturer": "Zanussi",
+    "supported_models": [
+      "ZH/TT-02"
+    ]
+  },
+  {
+    "code": "2301",
+    "manufacturer": "Zanussi",
+    "supported_models": [
+      "ZACS/I-07 HPF/A17/N1"
+    ]
+  },
+  {
+    "code": "3380",
+    "manufacturer": "Zephir",
+    "supported_models": [
+      "DualSplit"
+    ]
+  }
+]
