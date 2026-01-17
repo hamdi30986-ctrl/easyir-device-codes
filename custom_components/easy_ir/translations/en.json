@@ -1,0 +1,54 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "title": "Add EasyIR Device",
+                "description": "Step 1: Name your device and select the type.",
+                "data": {
+                    "name": "Device Name",
+                    "device_type": "Device Type"
+                }
+            },
+            "controller": {
+                "title": "Configure Controller",
+                "description": "Step 2: Type a **Brand Name** and press **Enter** to search.",
+                "data": {
+                    "controller_entity": "IR Blaster",
+                    "search_query": "Brand Name",
+                    "device_code": "Device Codes",
+                    "temperature_sensor": "Temperature Sensor"
+                }
+            },
+            "test": {
+                "title": "Test Connectivity",
+                "description": "Step 3: Verify the code before saving.\n\nSelect a command below and click **Submit** to fire the IR signal.",
+                "data": {
+                    "test_action": "Select Action"
+                }
+            }
+        },
+        "error": {
+            "unknown": "Unexpected error",
+            "no_codes_found": "No matches found. Try a different search term.",
+            "download_failed": "Failed to download code from GitHub.",
+            "file_corruption": "Downloaded file is corrupt.",
+            "cmd_not_found": "This command is not available for this device."
+        },
+        "abort": {
+            "already_configured": "Device is already configured"
+        }
+    },
+    "selector": {
+        "test_action": {
+            "options": {
+                "btn_test_off": "🔴 Send 'OFF' Command",
+                "btn_test_on": "🟢 Send 'ON' Command",
+                "btn_test_cool": "❄️ Send 'Cool' Command",
+                "btn_test_volumeUp": "🔊 Send 'Vol Up'",
+                "btn_test_mute": "🔇 Send 'Mute'",
+                "btn_save": "✅ It Works! Save Device",
+                "btn_back": "🔙 Not Working? Go Back"
+            }
+        }
+    }
+}
